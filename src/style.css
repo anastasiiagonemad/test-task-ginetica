@@ -1,0 +1,25 @@
+body {
+  font-size: 14px;
+  max-width: 1720px;
+  min-width: 343px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+@font-face {
+  font-family: "Inter400";
+  src: url("../assets/fonts/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: "Inter500";
+  src: url("../assets/fonts/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: "PT400";
+  src: url("../assets/fonts/PTSans-Regular.ttf");
+}
+@font-face {
+  font-family: "PT700";
+  src: url("../assets/fonts/PTSans-Bold.ttf");
+}/*# sourceMappingURL=style.css.map */
